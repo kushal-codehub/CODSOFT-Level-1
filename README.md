@@ -22,4 +22,4 @@ This repository showcases a collection of web development projects I created dur
 * CSS
 * JavaScript
 
-**[⬆ Back to Top](#Interactive-and-Responsive-Web-Projects (CodSoft-Internship))**
+**[⬆ Back to Top](#projects)**
