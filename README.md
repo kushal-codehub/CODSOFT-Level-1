@@ -21,3 +21,5 @@ This repository showcases a collection of web development projects I created dur
 * HTML
 * CSS
 * JavaScript
+
+**[⬆ Back to Top](#table-of-contents)**
